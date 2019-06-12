@@ -1,0 +1,15 @@
+{
+  "name": "codination-cryp",
+  "version": "1.0.0",
+  "description": "Teste para ingressar na aceleração da codination no curso de Vue.js",
+  "main": "index.js",
+  "author": "Thiago Pereira Martins",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "request": "^2.88.0"
+  }
+}
